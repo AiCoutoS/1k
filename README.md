@@ -3,7 +3,9 @@ CSS grid e markdown em menos de 1k
 
 ## Instalação
 
-`bower install 1k --save`
+```bash
+bower install 1k --save
+```
 
 ## Grid
 
