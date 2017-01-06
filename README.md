@@ -16,7 +16,7 @@
 </div>
 ```
 
-##Alinhamento
+## Alinhamento
 
 ```html
 <p class="left">
