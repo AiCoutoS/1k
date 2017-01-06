@@ -1,5 +1,5 @@
 # 1k
-CSS grid e markdown em menos de 1k
+:balloon: CSS grid e markdown em menos de 1k
 
 ## Instalação
 bower install 1k --save
