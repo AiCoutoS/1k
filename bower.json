@@ -1,0 +1,22 @@
+{
+  "name": "1k",
+  "authors": [
+    "Anderson Ismael <AiCoutoS@users.noreply.github.com>"
+  ],
+  "description": "",
+  "main": "dist/1k.min.css",
+  "keywords": [
+    "css",
+    "grid",
+    "markdown"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
