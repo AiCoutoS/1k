@@ -22,12 +22,12 @@ bower install 1k --save
 
 ```html
 <p class="left">
-left
+	left
 </p>
 <p class="center">
-center
+	center
 </p>
 <p class="right">
-right
+	right
 </p>
 ```
