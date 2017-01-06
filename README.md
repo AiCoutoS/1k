@@ -2,9 +2,11 @@
 :balloon: CSS grid e markdown em menos de 1k
 
 ## Instalação
-bower install 1k --save
+
+`bower install 1k --save`
 
 ## Grid
+
 ```html
 <div class="c"><!--container-->
   <div class="r"><!--row-->
@@ -12,8 +14,10 @@ bower install 1k --save
     </div>
   </div>
 </div>
+
 ```
 ##Alinhamento
+
 ```html
 <p class="left">
 left
