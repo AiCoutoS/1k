@@ -32,6 +32,10 @@ hr,code,td {
 background:#eee
 }
 
+img {
+border:1px solid #eee
+}
+
 input {
 margin-bottom:1em;
 width:100%
