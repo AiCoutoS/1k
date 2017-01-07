@@ -33,7 +33,8 @@ background:#eee
 }
 
 img {
-border:1px solid #eee
+border:1px solid #eee;
+max-width:100%
 }
 
 input {
