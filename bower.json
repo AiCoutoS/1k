@@ -3,8 +3,8 @@
   "authors": [
     "Anderson Ismael <AiCoutoS@users.noreply.github.com>"
   ],
-  "description": "",
-  "main": "dist/1k.min.css",
+  "description": "CSS grid, formulários e markdown (blockquote, code e tabelas) em menos de 1k ",
+  "main": "dist/1k.min.css?v=1.0.0",
   "keywords": [
     "css",
     "grid",
