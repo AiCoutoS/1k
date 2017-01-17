@@ -142,6 +142,10 @@ margin:0 10px
 		margin: 0;
 		width: 100%;
 	}
+	.d{
+        display: none;
+        visibility: hidden;
+    }
 	.g {
 		margin: 0;
 	}
@@ -152,4 +156,19 @@ margin:0 10px
 		margin: 0 auto;
 		width: auto;
 	}
+    .m{
+        display: block;
+        visibility: visible;
+    }		
+}
+
+@media (min-width : 960px) {
+	.d{
+        display:block;
+        visibility:visible;
+    }
+    .m{
+        display: none;
+        visibility: hidden;
+    }
 }
