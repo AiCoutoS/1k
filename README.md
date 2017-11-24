@@ -2,6 +2,11 @@
 
 CSS grid reponsivo em 1kb
 
+## Suporte
+| <img src="https://clipboardjs.com/assets/images/chrome.png" width="48px" height="48px" alt="Chrome logo"> | <img src="https://clipboardjs.com/assets/images/edge.png" width="48px" height="48px" alt="Edge logo"> | <img src="https://clipboardjs.com/assets/images/firefox.png" width="48px" height="48px" alt="Firefox logo"> | <img src="https://clipboardjs.com/assets/images/ie.png" width="48px" height="48px" alt="Internet Explorer logo"> |
+|:---:|:---:|:---:|:---:|
+| 62+ ✔ | 12+ ✔ | 57+ ✔ | 11+ ✔ |
+
 ## CDN
 ```html
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -41,8 +46,3 @@ CSS grid reponsivo em 1kb
 </body>
 </html>
 ```
-
-## Suporte
-| <img src="https://clipboardjs.com/assets/images/chrome.png" width="48px" height="48px" alt="Chrome logo"> | <img src="https://clipboardjs.com/assets/images/edge.png" width="48px" height="48px" alt="Edge logo"> | <img src="https://clipboardjs.com/assets/images/firefox.png" width="48px" height="48px" alt="Firefox logo"> | <img src="https://clipboardjs.com/assets/images/ie.png" width="48px" height="48px" alt="Internet Explorer logo"> |
-|:---:|:---:|:---:|:---:|
-| 62+ ✔ | 12+ ✔ | 57+ ✔ | 11+ ✔ |
