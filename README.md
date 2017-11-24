@@ -5,7 +5,7 @@ CSS grid reponsivo em 1kb
 ## CDN
 ```html
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href="https://gitcdn.xyz/repo/mushape/1k/master/dist/1k.min.css">
+<link rel="stylesheet" href="https://clipboardjs.com/assets/dist/1k.min.css">
 ```
 
 ## Exemplo
@@ -16,7 +16,7 @@ CSS grid reponsivo em 1kb
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://gitcdn.xyz/repo/mushape/1k/master/dist/1k.min.css">
+    <link rel="stylesheet" href="https://clipboardjs.com/assets/dist/1k.min.css">
     <title>1k</title>
 </head>
 <body>
@@ -43,6 +43,6 @@ CSS grid reponsivo em 1kb
 ```
 
 ## Suporte
-| <img src="https://gitcdn.xyz/repo/mushape/1k/master/images/chrome.png" width="48px" height="48px" alt="Chrome logo"> | <img src="https://gitcdn.xyz/repo/mushape/1k/master/images/edge.png" width="48px" height="48px" alt="Edge logo"> | <img src="https://gitcdn.xyz/repo/mushape/1k/master/images/firefox.png" width="48px" height="48px" alt="Firefox logo"> | <img src="https://gitcdn.xyz/repo/mushape/1k/master/images/ie.png" width="48px" height="48px" alt="Internet Explorer logo"> |
+| <img src="https://clipboardjs.com/assets/images/chrome.png" width="48px" height="48px" alt="Chrome logo"> | <img src="https://clipboardjs.com/assets/images/edge.png" width="48px" height="48px" alt="Edge logo"> | <img src="https://clipboardjs.com/assets/images/firefox.png" width="48px" height="48px" alt="Firefox logo"> | <img src="https://clipboardjs.com/assets/images/ie.png" width="48px" height="48px" alt="Internet Explorer logo"> |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 62+ ✔ | 12+ ✔ | 57+ ✔ | 11+ ✔ |
