@@ -9,11 +9,35 @@ CSS grid reponsivo em 1kb
 ```
 
 ## Exemplo
+Veja o [exemplo online](https://mushape.github.io/1k/index.html).
 ```html
-<div class="c"><!--container-->
-  <div class="r"><!--row-->
-    <div class="g12"><!--g1,g2,g3,g4,g5,g6,g7,g8,g9,g10,g11,g12-->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://gitcdn.xyz/repo/mushape/1k/master/dist/1k.min.css">
+    <title>1k</title>
+</head>
+<body>
+    <div class="c">
+        <div class="r">
+            <div class="g12 center">
+                <h1>g12 center</h1>
+            </div>
+        </div>
+        <div class="r">
+            <div class="g3">
+                g3
+            </div>
+            <div class="g6">
+                g6
+            </div>
+            <div class="g3">
+                g3
+            </div>
+        </div>
     </div>
-  </div>
-</div>
+</body>
+</html>
 ```
