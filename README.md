@@ -41,3 +41,8 @@ CSS grid reponsivo em 1kb
 </body>
 </html>
 ```
+
+## Suporte
+| <img src="images/chrome.png" width="48px" height="48px" alt="Chrome logo"> | <img src="images/edge.png" width="48px" height="48px" alt="Edge logo"> | <img src="images/firefox.png" width="48px" height="48px" alt="Firefox logo"> | <img src="images/ie.png" width="48px" height="48px" alt="Internet Explorer logo"> |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 62+ ✔ | 12+ ✔ | 57+ ✔ | 11+ ✔ |
