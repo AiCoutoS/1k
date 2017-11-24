@@ -8,7 +8,7 @@ CSS grid reponsivo em menos de 1kb
 <link rel="stylesheet" href="https://gitcdn.xyz/repo/mushape/1k/master/dist/1k.min.css">
 ```
 
-## Grid
+## Exemplo
 ```html
 <div class="c"><!--container-->
   <div class="r"><!--row-->
