@@ -2,10 +2,16 @@
 
 CSS grid reponsivo em menos de 1kb
 
-## Instalação
+## Bower
 
 ```bash
 bower install 1k --save
+```
+
+## CDN
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://cdn.rawgit.com/aicoutos/1k/master/dist/1k.min.css">
 ```
 
 ## Grid
