@@ -1,6 +1,6 @@
 # 1k
 
-:balloon: CSS grid, formulários e markdown (blockquote, code e tabelas) em menos de 1kb
+CSS grid reponsivo em menos de 1kb
 
 ## Instalação
 
@@ -17,18 +17,4 @@ bower install 1k --save
     </div>
   </div>
 </div>
-```
-
-## Alinhamento
-
-```html
-<p class="left">
-	left
-</p>
-<p class="center">
-	center
-</p>
-<p class="right">
-	right
-</p>
 ```
