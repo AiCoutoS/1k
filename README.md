@@ -2,12 +2,6 @@
 
 CSS grid reponsivo em menos de 1kb
 
-## Bower
-
-```bash
-bower install 1k --save
-```
-
 ## CDN
 ```html
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,7 +9,6 @@ bower install 1k --save
 ```
 
 ## Grid
-
 ```html
 <div class="c"><!--container-->
   <div class="r"><!--row-->
