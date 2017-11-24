@@ -9,7 +9,7 @@ CSS grid reponsivo em 1kb
 ```
 
 ## Exemplo
-[Ver exemplo online](https://mushape.github.io/1k/index.html)
+[Ver exemplo online](https://mushape.github.io/1k)
 ```html
 <!DOCTYPE html>
 <html>
