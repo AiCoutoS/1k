@@ -1,6 +1,6 @@
 # 1k
 
-CSS grid reponsivo em menos de 1kb
+CSS grid reponsivo em 1kb
 
 ## CDN
 ```html
