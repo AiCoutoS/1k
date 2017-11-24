@@ -1,20 +1,42 @@
-/*mobile*/
-@media ( max-width : 1024px) {
-    .desktop{
-        display: none;
-        visibility: hidden;
+/*extra*/
+.center{
+    text-align:center;
+}
+* {
+    line-height:1.5em
+}
+a{
+    color:blue;
+}
+a:hover{
+    color:red;
+}
+body{
+    color:#333;
+    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1em;
+}
+button{
+    cursor:pointer;
+    display:block;
+    margin:0.75em auto;
+}
+h1,h2,h3{
+    text-align:center;
+}
+input[type=email],input[type=password],input[type=text],textarea{
+    width:calc(100% - 2px);
+}
+label{
+    cursor:pointer;
+    font-weight:bold;
+}
+/*fix by http://browserhacks.com*/
+@supports (-moz-appearance:meterbar) {
+    input[type=email],input[type=password],input[type=text],textarea{
+        width:calc(100% - 1.5em);
     }
-    .c {
-        margin: 0;
-        width: 100%;
-    }
-    [class*="g"] {
-        display: block;
-        float: none;
-        padding: 0 10px;
-        margin: 0 auto;
-        width: auto;
-    }
+
 }
 /*desktop*/
 @media ( min-width : 1024px) {
@@ -99,44 +121,21 @@
         width:100%;
     }
 }
-
-/*extra*/
-.center{
-    text-align:center;
-}
-* {
-    line-height:1.5em
-}
-a{
-    color:blue;
-}
-a:hover{
-    color:red;
-}
-body{
-    color:#333;
-    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 1em;
-}
-button{
-    cursor:pointer;
-    display:block;
-    margin:0.75em auto;
-}
-h1,h2,h3{
-    text-align:center;
-}
-input[type=email],input[type=password],input[type=text],textarea{
-    width:calc(100% - 2px);
-}
-label{
-    cursor:pointer;
-    font-weight:bold;
-}
-/*by http://browserhacks.com*/
-@supports (-moz-appearance:meterbar) {
-    input[type=email],input[type=password],input[type=text],textarea{
-        width:calc(100% - 1.5em);
+/*mobile*/
+@media ( max-width : 1024px) {
+    .desktop{
+        display: none;
+        visibility: hidden;
     }
-
+    .c {
+        margin: 0;
+        width: 100%;
+    }
+    [class*="g"] {
+        display: block;
+        float: none;
+        padding: 0 10px;
+        margin: 0 auto;
+        width: auto;
+    }
 }
