@@ -12,6 +12,7 @@ a:hover{
     color:red;
 }
 body{
+    background:#fff;
     color:#333;
     font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 1em;
@@ -20,9 +21,6 @@ button{
     cursor:pointer;
     display:block;
     margin:0.75em auto;
-}
-h1,h2,h3{
-    text-align:center;
 }
 input[type=email],input[type=password],input[type=text],textarea{
     width:calc(100% - 2px);
