@@ -27,7 +27,9 @@ input[type=email],input[type=password],input[type=text],select,textarea{
 }
 label{
     cursor:pointer;
+    display:block;
     font-weight:bold;
+    width:100%;
 }
 /*fix by http://browserhacks.com*/
 @supports (-moz-appearance:meterbar) {
