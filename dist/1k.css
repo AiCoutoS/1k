@@ -31,10 +31,12 @@ label{
 }
 /*fix by http://browserhacks.com*/
 @supports (-moz-appearance:meterbar) {
-    input[type=email],input[type=password],input[type=text],textarea{
+    input[type=email],input[type=password],input[type=text]{
         width:calc(100% - 1.5em);
     }
-
+    textarea{
+        width:calc(100% - 1em);
+    }
 }
 /*desktop*/
 @media ( min-width : 1024px) {
