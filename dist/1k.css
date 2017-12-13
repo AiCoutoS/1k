@@ -23,7 +23,9 @@ button{
     margin:0.75em auto;
 }
 input[type=email],input[type=password],input[type=text],select,textarea{
+    display:block;
     width:calc(100% - 2px);
+    width:100%;
 }
 label{
     cursor:pointer;
