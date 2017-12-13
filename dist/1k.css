@@ -35,6 +35,7 @@ label{
         width:calc(100% - 1.5em);
     }
     select{
+        margin-left: -1px;
         width:calc(100% - 0.5em);
     }    
     textarea{
