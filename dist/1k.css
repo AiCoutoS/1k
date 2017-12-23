@@ -66,7 +66,7 @@ label{
     .r:after {
         clear: both;
     }
-    .r [class*="g"] {
+    .r > [class*="g"] {
         display: block;
         float: left;
         width: 100%;
@@ -74,7 +74,7 @@ label{
         margin-left: 0.75%;
     }
 
-    .r [class*="g"]:first-child {
+    .r > [class*="g"]:first-child {
         margin-left: 0;
     }
     .r .g12 {
